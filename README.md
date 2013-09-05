@@ -1,4 +1,4 @@
-Neel Restful API Java Archichture
+Neel RESTful API Java Architecture
 ========
 
 RESTful API skeleton Architecture use the following technologies.
